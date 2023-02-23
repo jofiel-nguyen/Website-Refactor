@@ -4,7 +4,8 @@
 ###### This is my deploy link: https://nhunguyen-debug.github.io/Website-Refactor/
 ###### This is my github link : https://github.com/nhunguyen-debug/Website-Refactor.git
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+
 ## User Story
 ###### AS A marketing agency
 ###### I WANT a codebase that follows accessibility standards
