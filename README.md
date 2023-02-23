@@ -5,3 +5,7 @@
 ###### This is my github link : https://github.com/nhunguyen-debug/Website-Refactor.git
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+## User Story
+###### AS A marketing agency
+###### I WANT a codebase that follows accessibility standards
+###### SO THAT our own site is optimized for search engines
